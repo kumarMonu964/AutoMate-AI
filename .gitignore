@@ -1,0 +1,26 @@
+# Virtual Environment
+.vene/
+
+# Environment Variables
+.env 
+
+# Python Cache
+__pycache__/
+*.pyc 
+
+# IDE
+.vscode/
+
+# Database
+storage/sqlite/*.db 
+
+# Vector Database
+storage/chroma
+
+# Logs
+logs/
+*.log 
+
+# Testing
+.pytest_cache/ 
+.coverage
