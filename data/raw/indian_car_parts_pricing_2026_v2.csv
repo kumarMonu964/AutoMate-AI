@@ -1,0 +1,501 @@
+Car_Name,Car_Model,Fuel_Type,Manufacturing_Year,Car_Part,Part_Cost_INR,Fitting_Installation_Charges_INR,Fixing_Repair_Charges_INR,Labour_Cost_Per_Hr_INR,Approx_Fixing_Time_Hrs
+Hyundai,Creta SX,Petrol,2021,Rear Shock Absorber (Single),2560,820,,820,1
+Maruti Suzuki,Baleno Delta,CNG,2025,Ignition Coil Pack,2130,310,,620,0.5
+Tata,Nexon.ev Empowered+,Electric,2026,Cabin AC Pollen Filter,610,220,,860,0.25
+Tata,Harrier Fearless+,Diesel,2026,Engine Mounting (Hydraulic),5460,1100,,880,1.25
+Maruti Suzuki,Dzire ZXi+,Petrol,2026,Coolant Expansion Reservoir Tank,1430,320,,640,0.5
+Tata,Tiago XT,Petrol,2022,Front Wheel Hub Bearing,2120,710,,570,1.25
+Tata,Nexon Creative+,Petrol,2024,Petrol Fuel Filter,750,360,,730,0.5
+Volkswagen,Virtus GT Plus,Petrol,2023,Rear Shock Absorber (Single),3240,990,,990,1
+Tata,Nexon Creative+,Petrol,2026,Timing Chain Kit,8340,2840,,710,4
+Honda,City ZX,Petrol,2024,Front Brake Pads Set,2150,640,,860,0.75
+Hyundai,Grand i10 Nios Magna,CNG,2024,Engine Air Filter,420,160,,660,0.25
+Tata,Punch Adventure,Petrol,2022,Front Shock Absorber Strut (Single),2910,850,,680,1.25
+Kia,Seltos HTX,Diesel,2025,Diesel Fuel Filter Assembly,1990,440,,890,0.5
+Tata,Nexon Creative+,Petrol,2022,12V Auxiliary Battery (DIN44/DIN55),5780,170,,690,0.25
+Maruti Suzuki,Dzire ZXi+,Petrol,2026,Clutch Plate & Pressure Plate Kit,4540,2440,,650,3.75
+BMW,3 Series 330Li M Sport,Petrol,2022,Engine Mounting (Hydraulic),9560,2840,,1890,1.5
+Tata,Punch Adventure,Petrol,2024,Front Shock Absorber Strut (Single),3120,840,,670,1.25
+Maruti Suzuki,Fronx Delta+,CNG,2023,Rear Shock Absorber (Single),2140,710,,710,1
+Kia,Sonet HTX,Diesel,2021,LED Tail Lamp Assembly,4510,570,,760,0.75
+Mahindra,XUV700 AX7,Diesel,2022,Diesel Fuel Filter Assembly,2550,480,,970,0.5
+Mahindra,XUV400 EL Pro,Electric,2026,EV High-Voltage Coolant Pump,11260,1500,,1000,1.5
+Tata,Nexon Fearless,Diesel,2025,Front Shock Absorber Strut (Single),4380,960,,770,1.25
+Kia,Seltos HTX,Diesel,2023,Timing Belt & Tensioner Kit,5380,2260,,820,2.75
+Hyundai,Grand i10 Nios Sportz,Petrol,2021,Clutch Plate & Pressure Plate Kit,4160,2310,,660,3.5
+Maruti Suzuki,Ertiga ZXi+,CNG,2026,Tie Rod End Set,1450,520,,690,0.75
+Maruti Suzuki,Grand Vitara Alpha+,Hybrid,2022,12V Auxiliary Battery (DIN44/DIN55),6790,220,,880,0.25
+Hyundai,i20 Asta,Petrol,2022,Clutch Plate & Pressure Plate Kit,5040,2280,,700,3.25
+Hyundai,Creta SX(O),Diesel,2026,Clutch Plate & Pressure Plate Kit,7240,3280,,820,4
+Kia,Sonet HTX,Diesel,2021,Tie Rod End Set,1370,540,,720,0.75
+Kia,Sonet HTX,Diesel,2021,Halogen Headlamp Assembly,4130,570,,760,0.75
+Mahindra,XUV400 EL Pro,Electric,2024,Front Wheel Hub Bearing,3970,1060,,850,1.25
+Mercedes-Benz,C-Class C220d,Diesel,2023,Tie Rod End Set,5040,1440,,1920,0.75
+Maruti Suzuki,Baleno Delta,CNG,2024,Timing Chain Kit,6560,2720,,680,4
+Kia,Seltos HTX,Diesel,2024,Tie Rod End Set,1780,660,,880,0.75
+Tata,Harrier Fearless+,Diesel,2022,ABS Wheel Speed Sensor,3150,680,,900,0.75
+Toyota,Innova Crysta GX,Diesel,2019,Halogen Headlamp Assembly,5640,750,,1000,0.75
+Tata,Altroz XZ,Diesel,2025,Water Pump Assembly,2830,1380,,690,2
+Maruti Suzuki,Fronx Delta+,CNG,2024,Thermostat Valve Housing,1530,680,,680,1
+Hyundai,Creta SX(O),Diesel,2020,Engine Air Filter,540,220,,890,0.25
+Hyundai,Venue SX,Diesel,2024,Halogen Headlamp Assembly,4730,580,,770,0.75
+Hyundai,Grand i10 Nios Sportz,Petrol,2023,Tie Rod End Set,1200,500,,670,0.75
+Maruti Suzuki,Dzire ZXi+,Petrol,2022,Engine Air Filter,380,150,,600,0.25
+Kia,Seltos HTX,Diesel,2021,Clutch Plate & Pressure Plate Kit,6850,3360,,840,4
+Maruti Suzuki,Swift ZXi,Petrol,2026,Halogen Headlamp Assembly,3420,440,,590,0.75
+Tata,Punch.ev Empowered+,Electric,2024,12V Auxiliary Battery (DIN44/DIN55),5830,190,,770,0.25
+Maruti Suzuki,Celerio VXi,CNG,2022,Coolant Expansion Reservoir Tank,1100,280,,560,0.5
+Tata,Nexon.ev Empowered+,Electric,2024,Coolant Expansion Reservoir Tank,2220,440,,880,0.5
+BYD,Atto 3 Superior,Electric,2023,Front Shock Absorber Strut (Single),6520,1350,,1080,1.25
+Maruti Suzuki,Brezza ZXi,Petrol,2024,Clutch Release Bearing (Hydraulic),2000,2280,,700,3.25
+Volkswagen,Virtus GT Plus,Petrol,2026,Front Brake Pads Set,2810,770,,1030,0.75
+Hyundai,Grand i10 Nios Magna,CNG,2025,Engine Mounting (Hydraulic),2960,840,,670,1.25
+Mahindra,XUV400 EL Pro,Electric,2026,Stabilizer Link Rod (Pair),1870,690,,920,0.75
+Honda,Amaze VX,Petrol,2024,Oxygen (O2) Lambda Sensor,4060,550,,730,0.75
+Tata,Altroz XZ,Diesel,2024,Engine Oil Filter,320,160,,660,0.25
+Honda,City e:HEV,Hybrid,2022,Thermostat Valve Housing,1950,930,,930,1
+Tata,Tiago.ev XZ+ Tech Lux,Electric,2025,Stabilizer Link Rod (Pair),1250,380,,750,0.5
+Tata,Nexon Fearless,Diesel,2025,Oxygen (O2) Lambda Sensor,4440,390,,780,0.5
+Hyundai,Grand i10 Nios Magna,CNG,2026,Cabin AC Pollen Filter,380,160,,630,0.25
+Tata,Harrier Fearless+,Diesel,2024,Diesel Fuel Filter Assembly,2600,460,,920,0.5
+Tata,Tiago XT,Petrol,2023,Stabilizer Link Rod (Pair),970,450,,600,0.75
+Toyota,Urban Cruiser Hyryder V,Hybrid,2024,EV High-Voltage Coolant Pump,11730,1620,,1080,1.5
+BYD,Atto 3 Superior,Electric,2026,ABS Wheel Speed Sensor,4360,530,,1060,0.5
+Honda,City ZX,Petrol,2020,Front Shock Absorber Strut (Single),4040,1110,,890,1.25
+Toyota,Innova Crysta GX,Diesel,2021,Engine Mounting (Hydraulic),4620,1210,,970,1.25
+Maruti Suzuki,Dzire ZXi+,Petrol,2023,Water Pump Assembly,2430,1200,,600,2
+Audi,Q3 Technology,Petrol,2024,Coolant Expansion Reservoir Tank,5460,890,,1780,0.5
+Maruti Suzuki,Dzire ZXi+,Petrol,2024,Petrol Fuel Filter,640,150,,590,0.25
+Tata,Nexon Fearless,Diesel,2025,Front Wheel Hub Bearing,3100,910,,730,1.25
+Skoda,Slavia Style,Petrol,2023,Engine Air Filter,660,240,,980,0.25
+Skoda,Slavia Style,Petrol,2026,Timing Belt & Tensioner Kit,5840,3350,,1030,3.25
+Tata,Nexon.ev Empowered+,Electric,2024,Stabilizer Link Rod (Pair),1580,440,,870,0.5
+Tata,Nexon Creative+,Petrol,2023,Timing Chain Kit,7900,3100,,690,4.5
+Tata,Tiago.ev XZ+ Tech Lux,Electric,2023,Halogen Headlamp Assembly,4130,580,,780,0.75
+Kia,Seltos HTX,Diesel,2026,Engine Mounting (Hydraulic),4490,1020,,820,1.25
+Hyundai,Creta SX,Petrol,2026,LED Tail Lamp Assembly,6230,440,,890,0.5
+Maruti Suzuki,Brezza ZXi,Petrol,2022,Engine Mounting (Hydraulic),3080,1050,,700,1.5
+Audi,Q3 Technology,Petrol,2023,Water Pump Assembly,8940,4050,,1800,2.25
+Maruti Suzuki,Baleno Delta,CNG,2023,Front Brake Pads Set,1690,500,,670,0.75
+Honda,City e:HEV,Hybrid,2025,12V Auxiliary Battery (DIN44/DIN55),7870,230,,910,0.25
+Mahindra,Scorpio-N Z8L,Diesel,2022,Oxygen (O2) Lambda Sensor,5810,690,,920,0.75
+Tata,Nexon Creative+,Petrol,2023,Front Shock Absorber Strut (Single),3470,860,,690,1.25
+Hyundai,Venue SX,Diesel,2026,Rear Brake Shoes / Pads Set,1760,580,,780,0.75
+Toyota,Innova Hycross ZX(O),Hybrid,2026,LED Tail Lamp Assembly,8920,770,,1030,0.75
+Mercedes-Benz,C-Class C220d,Diesel,2025,Diesel Fuel Filter Assembly,5730,1010,,2020,0.5
+Tata,Tiago XT,Petrol,2021,Engine Oil Filter,230,150,,590,0.25
+Tata,Tiago XT,Petrol,2023,Engine Oil Filter,270,150,,580,0.25
+Mahindra,XUV700 AX7,Diesel,2022,Engine Air Filter,680,240,,940,0.25
+Maruti Suzuki,WagonR LXi,CNG,2022,ABS Wheel Speed Sensor,1490,430,,570,0.75
+Kia,Seltos HTX,Diesel,2022,Water Pump Assembly,3460,1940,,860,2.25
+Mahindra,XUV400 EL Pro,Electric,2025,Rear Shock Absorber (Single),3550,680,,910,0.75
+Skoda,Slavia Style,Petrol,2025,Halogen Headlamp Assembly,5950,750,,1000,0.75
+Mahindra,XUV700 AX7,Diesel,2024,LED Tail Lamp Assembly,8130,480,,970,0.5
+Maruti Suzuki,Dzire ZXi+,Petrol,2024,Front Shock Absorber Strut (Single),2970,790,,630,1.25
+Maruti Suzuki,Fronx Delta+,CNG,2023,Engine Mounting (Hydraulic),3060,850,,680,1.25
+Tata,Nexon Creative+,Petrol,2026,Clutch Plate & Pressure Plate Kit,6160,2280,,700,3.25
+Honda,City e:HEV,Hybrid,2026,Ignition Coil Pack,3380,470,,940,0.5
+Maruti Suzuki,Celerio VXi,CNG,2024,CNG High-Pressure Filter Cartridge,720,280,,570,0.5
+Hyundai,Venue SX,Diesel,2021,Timing Chain Kit,6940,3060,,720,4.25
+Kia,Carens Prestige+,Diesel,2026,Water Pump Assembly,4090,1840,,820,2.25
+Maruti Suzuki,WagonR LXi,CNG,2025,12V Auxiliary Battery (DIN44/DIN55),3890,150,,530,0.25
+Maruti Suzuki,Dzire ZXi+,Petrol,2026,Water Pump Assembly,2330,1440,,640,2.25
+Maruti Suzuki,Swift ZXi,Petrol,2023,Coolant Expansion Reservoir Tank,1240,310,,620,0.5
+Honda,City ZX,Petrol,2022,Water Pump Assembly,3130,1440,,820,1.75
+Hyundai,Grand i10 Nios Magna,CNG,2023,Front Wheel Hub Bearing,2350,820,,660,1.25
+Skoda,Slavia Style,Petrol,2022,Tie Rod End Set,1860,790,,1050,0.75
+Tata,Nexon.ev Empowered+,Electric,2023,12V Auxiliary Battery (DIN44/DIN55),7240,460,,910,0.5
+Tata,Nexon Creative+,Petrol,2021,Ignition Coil Pack,2480,360,,730,0.5
+Skoda,Slavia Style,Petrol,2026,Rear Brake Shoes / Pads Set,2210,1050,,1050,1
+Toyota,Innova Crysta GX,Diesel,2020,Tie Rod End Set,2100,700,,940,0.75
+Hyundai,Venue SX,Diesel,2024,Front Shock Absorber Strut (Single),3990,910,,730,1.25
+BMW,3 Series 330Li M Sport,Petrol,2026,Tie Rod End Set,4540,1410,,1880,0.75
+Tata,Nexon.ev Empowered+,Electric,2023,Coolant Expansion Reservoir Tank,1980,440,,870,0.5
+Toyota,Urban Cruiser Hyryder V,Hybrid,2026,Stabilizer Link Rod (Pair),1860,460,,920,0.5
+Mahindra,XUV700 AX7,Diesel,2024,Rear Brake Shoes / Pads Set,2570,690,,920,0.75
+Mercedes-Benz,C-Class C220d,Diesel,2023,Engine Mounting (Hydraulic),10170,2560,,2050,1.25
+Maruti Suzuki,Dzire ZXi+,Petrol,2021,Engine Air Filter,390,150,,600,0.25
+Mercedes-Benz,C-Class C220d,Diesel,2025,Engine Mounting (Hydraulic),10860,2390,,1910,1.25
+Hyundai,Grand i10 Nios Sportz,Petrol,2022,LED Tail Lamp Assembly,3990,340,,680,0.5
+Kia,Sonet HTX,Diesel,2024,Timing Belt & Tensioner Kit,4810,2340,,720,3.25
+Maruti Suzuki,Grand Vitara Alpha+,Hybrid,2025,Water Pump Assembly,4160,1520,,870,1.75
+Hyundai,Grand i10 Nios Magna,CNG,2022,Petrol Fuel Filter,610,320,,650,0.5
+Maruti Suzuki,Ertiga ZXi+,CNG,2024,Halogen Headlamp Assembly,4130,520,,690,0.75
+Kia,Seltos HTX,Diesel,2023,Diesel Fuel Filter Assembly,1940,440,,890,0.5
+Tata,Tiago iCNG XZ,CNG,2022,Clutch Release Bearing (Hydraulic),1710,1860,,620,3
+Maruti Suzuki,Celerio VXi,CNG,2024,Engine Air Filter,370,150,,560,0.25
+Toyota,Innova Hycross ZX(O),Hybrid,2023,Engine Air Filter,860,270,,1090,0.25
+Maruti Suzuki,Ertiga ZXi+,CNG,2022,Oxygen (O2) Lambda Sensor,3570,320,,650,0.5
+Maruti Suzuki,Celerio VXi,CNG,2025,Cabin AC Pollen Filter,320,150,,560,0.25
+Maruti Suzuki,Ertiga ZXi+,CNG,2026,Clutch Plate & Pressure Plate Kit,5910,2600,,650,4
+Tata,Nexon.ev Empowered+,Electric,2024,LED Tail Lamp Assembly,6670,680,,900,0.75
+Maruti Suzuki,Baleno Zeta,Petrol,2026,Timing Chain Kit,6780,2680,,670,4
+Hyundai,Creta SX(O),Diesel,2026,Cabin AC Pollen Filter,570,220,,880,0.25
+Mahindra,XUV 3XO AX5,Petrol,2025,Stabilizer Link Rod (Pair),1390,380,,770,0.5
+BYD,Atto 3 Superior,Electric,2025,LED Tail Lamp Assembly,8520,860,,1140,0.75
+Hyundai,Grand i10 Nios Magna,CNG,2023,Halogen Headlamp Assembly,3310,500,,670,0.75
+Kia,Seltos HTX,Diesel,2024,Thermostat Valve Housing,2020,880,,880,1
+Maruti Suzuki,Fronx Delta+,CNG,2025,Stabilizer Link Rod (Pair),1260,330,,660,0.5
+Tata,Curvv.ev Empowered+,Electric,2025,Halogen Headlamp Assembly,6100,680,,900,0.75
+Honda,City ZX,Petrol,2023,Engine Mounting (Hydraulic),3630,1060,,850,1.25
+Maruti Suzuki,Ertiga ZXi+,CNG,2021,Clutch Release Bearing (Hydraulic),2110,1840,,670,2.75
+Hyundai,Verna SX Turbo,Petrol,2023,Front Brake Pads Set,2270,650,,870,0.75
+Maruti Suzuki,Grand Vitara Alpha+,Hybrid,2022,Halogen Headlamp Assembly,5180,690,,920,0.75
+Maruti Suzuki,Ertiga ZXi+,CNG,2024,Petrol Fuel Filter,770,160,,660,0.25
+Toyota,Fortuner Legender,Diesel,2023,Stabilizer Link Rod (Pair),2770,560,,1110,0.5
+Hyundai,i20 Asta,Petrol,2023,Thermostat Valve Housing,1500,520,,700,0.75
+Tata,Tiago.ev XZ+ Tech Lux,Electric,2023,Cabin AC Pollen Filter,440,180,,740,0.25
+Toyota,Fortuner Legender,Diesel,2023,Front Wheel Hub Bearing,5730,1500,,1200,1.25
+Mahindra,XUV400 EL Pro,Electric,2025,Tie Rod End Set,2050,680,,900,0.75
+Maruti Suzuki,Baleno Delta,CNG,2022,Halogen Headlamp Assembly,3070,500,,660,0.75
+Tata,Harrier Fearless+,Diesel,2021,Front Wheel Hub Bearing,3920,1200,,960,1.25
+Honda,City e:HEV,Hybrid,2024,Ignition Coil Pack,3210,480,,970,0.5
+Maruti Suzuki,Grand Vitara Alpha+,Hybrid,2025,Stabilizer Link Rod (Pair),1690,420,,840,0.5
+BMW,3 Series 330Li M Sport,Petrol,2022,Halogen Headlamp Assembly,12630,1290,,1720,0.75
+Maruti Suzuki,Swift ZXi,Petrol,2022,Cabin AC Pollen Filter,330,150,,600,0.25
+Tata,Nexon Fearless,Diesel,2026,Front Shock Absorber Strut (Single),4480,1110,,740,1.5
+Honda,City e:HEV,Hybrid,2025,Engine Air Filter,610,240,,970,0.25
+Tata,Harrier Fearless+,Diesel,2021,12V Auxiliary Battery (DIN44/DIN55),7840,230,,910,0.25
+Toyota,Innova Hycross ZX(O),Hybrid,2023,Tie Rod End Set,2360,800,,1070,0.75
+BMW,3 Series 330Li M Sport,Petrol,2021,Stabilizer Link Rod (Pair),3440,890,,1780,0.5
+Tata,Punch.ev Empowered+,Electric,2025,EV High-Voltage Coolant Pump,8720,1590,,910,1.75
+Honda,City e:HEV,Hybrid,2022,Engine Oil Filter,400,220,,900,0.25
+Tata,Harrier Fearless+,Diesel,2022,Water Pump Assembly,4380,1980,,880,2.25
+Skoda,Slavia Style,Petrol,2022,Stabilizer Link Rod (Pair),1600,720,,960,0.75
+Tata,Tiago.ev XZ+ Tech Lux,Electric,2026,Front Wheel Hub Bearing,2740,910,,730,1.25
+Hyundai,i20 Asta,Petrol,2026,Front Wheel Hub Bearing,2830,900,,720,1.25
+Hyundai,Grand i10 Nios Sportz,Petrol,2023,Spark Plug Set (Iridium),1620,310,,620,0.5
+Toyota,Innova Crysta GX,Diesel,2019,Stabilizer Link Rod (Pair),1990,480,,970,0.5
+Maruti Suzuki,Swift ZXi,Petrol,2021,Front Wheel Hub Bearing,2000,780,,620,1.25
+Mahindra,XUV700 AX7,Diesel,2022,12V Auxiliary Battery (DIN44/DIN55),8330,460,,920,0.5
+BMW,3 Series 330Li M Sport,Petrol,2024,Engine Mounting (Hydraulic),10580,2580,,1720,1.5
+Maruti Suzuki,Alto K10 VXi,Petrol,2024,Rear Brake Shoes / Pads Set,1060,530,,530,1
+Kia,Sonet HTX,Diesel,2024,Diesel Fuel Filter Assembly,1950,360,,710,0.5
+BYD,Atto 3 Superior,Electric,2024,LED Tail Lamp Assembly,9120,820,,1090,0.75
+Hyundai,Venue SX,Diesel,2022,Engine Mounting (Hydraulic),3530,890,,710,1.25
+Tata,Altroz XZ,Diesel,2025,ABS Wheel Speed Sensor,2150,520,,690,0.75
+Kia,Carens Prestige+,Diesel,2024,Rear Brake Shoes / Pads Set,2080,640,,850,0.75
+Maruti Suzuki,Swift ZXi,Petrol,2021,Stabilizer Link Rod (Pair),910,290,,580,0.5
+MG,ZS EV Exclusive,Electric,2022,12V Auxiliary Battery (DIN44/DIN55),8870,500,,1010,0.5
+Tata,Curvv.ev Empowered+,Electric,2024,12V Auxiliary Battery (DIN44/DIN55),8230,440,,880,0.5
+Honda,City e:HEV,Hybrid,2024,12V Auxiliary Battery (DIN44/DIN55),7660,240,,950,0.25
+Maruti Suzuki,Fronx Delta+,CNG,2025,Timing Belt & Tensioner Kit,4230,1980,,660,3
+Maruti Suzuki,Brezza ZXi,Petrol,2023,Rear Shock Absorber (Single),2360,670,,670,1
+BYD,Atto 3 Superior,Electric,2023,Rear Shock Absorber (Single),4430,820,,1090,0.75
+Maruti Suzuki,Dzire ZXi+,Petrol,2023,LED Tail Lamp Assembly,3780,470,,630,0.75
+Tata,Tiago.ev XZ+ Tech Lux,Electric,2024,ABS Wheel Speed Sensor,2070,400,,790,0.5
+Hyundai,Venue SX,Diesel,2025,Timing Belt & Tensioner Kit,4460,2040,,740,2.75
+Tata,Nexon Creative+,Petrol,2026,Front Wheel Hub Bearing,2880,860,,690,1.25
+Maruti Suzuki,Fronx Delta+,CNG,2026,Oxygen (O2) Lambda Sensor,3550,340,,680,0.5
+Hyundai,Grand i10 Nios Sportz,Petrol,2025,Stabilizer Link Rod (Pair),1040,340,,680,0.5
+Tata,Curvv.ev Empowered+,Electric,2026,LED Tail Lamp Assembly,6490,470,,940,0.5
+Tata,Tiago iCNG XZ,CNG,2026,Thermostat Valve Housing,1350,440,,580,0.75
+Toyota,Innova Crysta GX,Diesel,2023,Engine Air Filter,810,260,,1020,0.25
+MG,ZS EV Exclusive,Electric,2026,Front Shock Absorber Strut (Single),6030,1280,,1020,1.25
+Kia,Carens Prestige+,Diesel,2022,Engine Oil Filter,380,210,,840,0.25
+Maruti Suzuki,Fronx Delta+,CNG,2024,ABS Wheel Speed Sensor,2160,360,,710,0.5
+Mahindra,Scorpio-N Z8L,Diesel,2024,Water Pump Assembly,4020,1860,,930,2
+Hyundai,i20 Asta,Petrol,2022,Thermostat Valve Housing,1360,520,,690,0.75
+Toyota,Fortuner Legender,Diesel,2026,ABS Wheel Speed Sensor,4820,850,,1130,0.75
+Tata,Punch Adventure,Petrol,2025,Engine Air Filter,420,160,,660,0.25
+Kia,Seltos HTX,Diesel,2026,Tie Rod End Set,1750,620,,820,0.75
+Maruti Suzuki,Swift ZXi,Petrol,2021,Oxygen (O2) Lambda Sensor,3040,300,,610,0.5
+Hyundai,i20 Asta,Petrol,2023,Front Wheel Hub Bearing,2570,860,,690,1.25
+Maruti Suzuki,Celerio VXi,CNG,2023,Spark Plug Set (Iridium),1410,300,,590,0.5
+Mahindra,Scorpio-N Z8L,Diesel,2024,Halogen Headlamp Assembly,6020,700,,940,0.75
+Hyundai,Grand i10 Nios Magna,CNG,2023,Petrol Fuel Filter,610,320,,630,0.5
+Tata,Punch Adventure,Petrol,2023,Timing Chain Kit,6820,3300,,660,5
+MG,ZS EV Exclusive,Electric,2025,Rear Shock Absorber (Single),3670,980,,980,1
+Hyundai,Creta SX,Petrol,2023,Engine Air Filter,560,210,,840,0.25
+Audi,Q3 Technology,Petrol,2024,Engine Oil Filter,980,440,,1750,0.25
+Maruti Suzuki,Swift ZXi,Petrol,2025,Water Pump Assembly,2310,1200,,600,2
+MG,ZS EV Exclusive,Electric,2024,Front Brake Pads Set,2880,740,,980,0.75
+Toyota,Innova Crysta GX,Diesel,2023,Thermostat Valve Housing,2590,770,,1030,0.75
+Kia,Carens Prestige+,Diesel,2023,Rear Brake Shoes / Pads Set,1900,620,,830,0.75
+Tata,Tiago.ev XZ+ Tech Lux,Electric,2024,Halogen Headlamp Assembly,3740,570,,760,0.75
+Hyundai,Verna SX Turbo,Petrol,2026,Timing Belt & Tensioner Kit,5330,2670,,890,3
+Tata,Tiago XT,Petrol,2022,Clutch Plate & Pressure Plate Kit,4400,2210,,590,3.75
+Maruti Suzuki,Fronx Delta+,CNG,2026,Front Brake Pads Set,1720,500,,670,0.75
+Hyundai,Grand i10 Nios Magna,CNG,2022,Engine Oil Filter,280,170,,680,0.25
+Hyundai,Verna SX Turbo,Petrol,2025,Coolant Expansion Reservoir Tank,2180,410,,820,0.5
+Maruti Suzuki,Grand Vitara Alpha+,Hybrid,2025,Rear Brake Shoes / Pads Set,2110,630,,840,0.75
+Hyundai,i20 Asta,Petrol,2022,Engine Air Filter,460,170,,670,0.25
+Hyundai,Grand i10 Nios Magna,CNG,2024,Water Pump Assembly,2580,1320,,660,2
+Tata,Punch.ev Empowered+,Electric,2026,Front Wheel Hub Bearing,3350,960,,770,1.25
+BYD,Atto 3 Superior,Electric,2025,12V Auxiliary Battery (DIN44/DIN55),11000,580,,1150,0.5
+Honda,City ZX,Petrol,2025,Front Shock Absorber Strut (Single),4260,1050,,840,1.25
+Maruti Suzuki,Grand Vitara Alpha+,Hybrid,2026,Stabilizer Link Rod (Pair),1600,460,,910,0.5
+Honda,City ZX,Petrol,2024,Halogen Headlamp Assembly,4740,660,,880,0.75
+Hyundai,Creta SX(O),Diesel,2023,Coolant Expansion Reservoir Tank,2110,420,,840,0.5
+Hyundai,Venue SX,Diesel,2023,Timing Chain Kit,7850,3060,,720,4.25
+Maruti Suzuki,WagonR LXi,CNG,2021,AC Blower Motor,1960,530,620,530,1
+Maruti Suzuki,WagonR LXi,CNG,2026,Windshield Wiper Motor & Linkage,1930,570,680,570,1
+Maruti Suzuki,Alto K10 VXi,Petrol,2024,Power Window Regulator & Motor,1890,560,740,560,1
+Maruti Suzuki,Celerio VXi,CNG,2022,AC Blower Motor,2100,570,790,570,1
+Maruti Suzuki,Brezza ZXi,Petrol,2023,Front Brake Disc Rotor (Pair),3540,890,800,710,1.25
+Hyundai,Grand i10 Nios Sportz,Petrol,2021,Front Brake Disc Rotor (Pair),3280,810,810,650,1.25
+Maruti Suzuki,WagonR LXi,CNG,2026,Lower Suspension Control Arm,2320,560,820,560,1
+Maruti Suzuki,Celerio VXi,CNG,2025,Brake Master Cylinder,2520,1020,840,580,1.75
+Tata,Punch Adventure,Petrol,2025,Power Window Regulator & Motor,2400,630,860,630,1
+Tata,Punch Adventure,Petrol,2025,AC Blower Motor,2630,640,870,640,1
+Maruti Suzuki,Alto K10 VXi,Petrol,2023,Brake Caliper Assembly,2910,690,920,550,1.25
+Honda,City ZX,Petrol,2022,Front Brake Disc Rotor (Pair),4170,1060,940,850,1.25
+Maruti Suzuki,Fronx Delta+,CNG,2024,Front Brake Disc Rotor (Pair),3970,1050,950,700,1.5
+Maruti Suzuki,Baleno Delta,CNG,2022,Brake Master Cylinder,2860,990,980,660,1.5
+Maruti Suzuki,Alto K10 VXi,Petrol,2026,Engine Radiator Assembly,3720,930,980,530,1.75
+Maruti Suzuki,Alto K10 VXi,Petrol,2026,Front Laminated Windshield Glass,4330,1220,980,540,2.25
+Tata,Tiago XT,Petrol,2023,Radiator Cooling Fan Motor,2700,570,1000,570,1
+Tata,Tiago.ev XZ+ Tech Lux,Electric,2026,Power Window Regulator & Motor,2510,740,1010,740,1
+Maruti Suzuki,Alto K10 VXi,Petrol,2024,ORVM Side Mirror (Auto-Fold w/ Indicator),2910,420,1010,560,0.75
+Tata,Altroz XZ,Diesel,2021,AC Condenser Coil,4450,1240,1030,710,1.75
+Maruti Suzuki,Alto K10 VXi,Petrol,2024,Rear Bumper Cover (Unpainted),2660,810,1030,540,1.5
+Hyundai,Creta SX,Petrol,2024,Power Window Regulator & Motor,3030,850,1040,850,1
+Maruti Suzuki,Swift ZXi,Petrol,2026,Engine Radiator Assembly,4030,860,1040,570,1.5
+Maruti Suzuki,Brezza ZXi,Petrol,2024,Brake Master Cylinder,3120,1170,1040,670,1.75
+Tata,Tiago.ev XZ+ Tech Lux,Electric,2024,Power Window Regulator & Motor,2570,770,1040,770,1
+Hyundai,Creta SX,Petrol,2021,Windshield Wiper Motor & Linkage,3320,870,1060,870,1
+Maruti Suzuki,Fronx Delta+,CNG,2024,Power Window Regulator & Motor,2710,690,1060,690,1
+Maruti Suzuki,WagonR LXi,CNG,2023,Rear Bumper Cover (Unpainted),2810,870,1080,580,1.5
+Tata,Nexon.ev Empowered+,Electric,2025,Windshield Wiper Motor & Linkage,3460,850,1100,850,1
+Maruti Suzuki,Alto K10 VXi,Petrol,2026,CV Axle Drive Shaft Assembly,3930,800,1100,530,1.5
+Tata,Tiago iCNG XZ,CNG,2024,Front Laminated Windshield Glass,5080,1330,1100,590,2.25
+Hyundai,Creta SX,Petrol,2021,AC Blower Motor,3340,1080,1100,860,1.25
+Tata,Tiago iCNG XZ,CNG,2026,AC Condenser Coil,4100,1220,1120,610,2
+Tata,Nexon Creative+,Petrol,2022,AC Condenser Coil,4940,1460,1120,730,2
+Kia,Sonet HTX,Diesel,2022,Brake Master Cylinder,3410,1080,1130,720,1.5
+Hyundai,Verna SX Turbo,Petrol,2023,AC Blower Motor,3360,850,1150,850,1
+Hyundai,Creta SX(O),Diesel,2021,Lower Suspension Control Arm,3220,1020,1180,820,1.25
+Mahindra,XUV400 EL Pro,Electric,2023,Front Brake Disc Rotor (Pair),4800,1150,1180,920,1.25
+Hyundai,Venue SX,Diesel,2021,Radiator Cooling Fan Motor,3720,730,1180,730,1
+Hyundai,Creta SX(O),Diesel,2022,Windshield Wiper Motor & Linkage,3430,860,1180,860,1
+Hyundai,i20 Asta,Petrol,2025,Radiator Cooling Fan Motor,3230,720,1190,720,1
+Volkswagen,Virtus GT Plus,Petrol,2023,Windshield Wiper Motor & Linkage,3660,970,1190,970,1
+Maruti Suzuki,Dzire ZXi+,Petrol,2024,Brake Caliper Assembly,4260,780,1200,620,1.25
+Maruti Suzuki,Swift ZXi,Petrol,2026,Front Laminated Windshield Glass,5020,1180,1200,590,2
+Maruti Suzuki,Swift ZXi,Petrol,2024,Front Fender Panel,2850,1180,1210,590,2
+Maruti Suzuki,WagonR LXi,CNG,2023,Front Fender Panel,2630,980,1210,560,1.75
+Maruti Suzuki,Baleno Delta,CNG,2025,Brake Caliper Assembly,3870,840,1220,670,1.25
+Tata,Altroz XZ,Diesel,2023,AC Condenser Coil,4650,1040,1220,690,1.5
+Honda,City e:HEV,Hybrid,2022,Windshield Wiper Motor & Linkage,3730,990,1230,990,1
+Tata,Altroz XZ,Diesel,2024,Radiator Cooling Fan Motor,3310,710,1240,710,1
+Kia,Carens Prestige+,Diesel,2024,Power Window Regulator & Motor,3600,820,1250,820,1
+Skoda,Slavia Style,Petrol,2023,AC Blower Motor,3750,1010,1250,1010,1
+Honda,City ZX,Petrol,2023,Lower Suspension Control Arm,3420,1110,1260,890,1.25
+Tata,Tiago iCNG XZ,CNG,2022,ORVM Side Mirror (Auto-Fold w/ Indicator),3420,460,1280,610,0.75
+Hyundai,Grand i10 Nios Magna,CNG,2024,Front Laminated Windshield Glass,5370,1510,1280,670,2.25
+Honda,City ZX,Petrol,2020,AC Condenser Coil,5610,1540,1290,880,1.75
+Kia,Sonet HTX,Diesel,2022,Front Laminated Windshield Glass,6230,1520,1300,760,2
+Kia,Seltos HTX,Diesel,2025,Front Brake Disc Rotor (Pair),4900,1090,1300,870,1.25
+Toyota,Urban Cruiser Hyryder V,Hybrid,2022,Lower Suspension Control Arm,4020,1150,1310,920,1.25
+Tata,Tiago.ev XZ+ Tech Lux,Electric,2023,Front Laminated Windshield Glass,6020,1710,1310,760,2.25
+Tata,Tiago.ev XZ+ Tech Lux,Electric,2026,Front Laminated Windshield Glass,6000,1710,1330,760,2.25
+Maruti Suzuki,Grand Vitara Alpha+,Hybrid,2022,AC Blower Motor,4040,860,1330,860,1
+Mahindra,XUV 3XO AX5,Petrol,2024,Radiator Cooling Fan Motor,4140,770,1360,770,1
+Tata,Altroz XZ,Diesel,2021,Front Bumper Cover (Unpainted),3760,1060,1370,710,1.5
+Tata,Curvv.ev Empowered+,Electric,2026,Lower Suspension Control Arm,4140,930,1400,930,1
+Kia,Carens Prestige+,Diesel,2023,Brake Master Cylinder,3820,1230,1410,820,1.5
+Honda,City e:HEV,Hybrid,2024,AC Blower Motor,3860,960,1420,960,1
+Honda,City ZX,Petrol,2025,AC Condenser Coil,5700,1500,1420,860,1.75
+MG,ZS EV Exclusive,Electric,2023,Windshield Wiper Motor & Linkage,4110,950,1430,950,1
+Tata,Nexon Creative+,Petrol,2026,Engine Radiator Assembly,5390,1280,1440,730,1.75
+Honda,City ZX,Petrol,2024,AC Condenser Coil,6330,1560,1440,890,1.75
+Volkswagen,Virtus GT Plus,Petrol,2024,Lower Suspension Control Arm,4060,970,1450,970,1
+Maruti Suzuki,Ertiga ZXi+,CNG,2021,Rear Bumper Cover (Unpainted),3780,890,1450,710,1.25
+Tata,Altroz XZ,Diesel,2024,Rear Bumper Cover (Unpainted),3520,850,1460,680,1.25
+Maruti Suzuki,Baleno Delta,CNG,2025,CV Axle Drive Shaft Assembly,5170,1000,1460,670,1.5
+Volkswagen,Virtus GT Plus,Petrol,2026,AC Blower Motor,4540,1040,1470,1040,1
+Toyota,Urban Cruiser Hyryder V,Hybrid,2026,AC Blower Motor,4270,900,1470,900,1
+Honda,Amaze VX,Petrol,2022,Front Bumper Cover (Unpainted),4000,1120,1470,750,1.5
+Maruti Suzuki,Alto K10 VXi,Petrol,2024,Starter Motor Assembly,4470,660,1480,530,1.25
+Tata,Curvv.ev Empowered+,Electric,2025,Power Window Regulator & Motor,3670,900,1480,900,1
+Honda,Amaze VX,Petrol,2026,Brake Caliper Assembly,4750,950,1480,760,1.25
+Hyundai,Venue SX,Diesel,2026,Front Laminated Windshield Glass,6940,1620,1490,720,2.25
+Honda,City e:HEV,Hybrid,2026,AC Blower Motor,4250,910,1510,910,1
+Hyundai,Venue SX,Diesel,2025,ORVM Side Mirror (Auto-Fold w/ Indicator),4720,380,1510,770,0.5
+Kia,Sonet HTX,Diesel,2024,Engine Radiator Assembly,5470,1580,1510,790,2
+Kia,Sonet HTX,Diesel,2026,Front Laminated Windshield Glass,7330,1330,1520,760,1.75
+Tata,Nexon.ev Empowered+,Electric,2026,Brake Master Cylinder,4560,1360,1520,910,1.5
+Mahindra,XUV400 EL Pro,Electric,2024,Brake Master Cylinder,4680,1540,1530,880,1.75
+Tata,Nexon.ev Empowered+,Electric,2023,Radiator Cooling Fan Motor,4240,900,1530,900,1
+Maruti Suzuki,Grand Vitara Alpha+,Hybrid,2023,AC Condenser Coil,6700,1290,1550,860,1.5
+Maruti Suzuki,Grand Vitara Alpha+,Hybrid,2024,Lower Suspension Control Arm,4090,1090,1550,870,1.25
+Mahindra,XUV400 EL Pro,Electric,2026,Front Brake Disc Rotor (Pair),5710,1090,1550,870,1.25
+Maruti Suzuki,Brezza ZXi,Petrol,2024,Front Bumper Cover (Unpainted),4170,1160,1570,660,1.75
+Tata,Nexon Creative+,Petrol,2021,CV Axle Drive Shaft Assembly,5280,1210,1580,690,1.75
+Tata,Nexon Creative+,Petrol,2022,Engine Radiator Assembly,5330,1210,1600,690,1.75
+Tata,Curvv.ev Empowered+,Electric,2026,AC Blower Motor,4380,950,1600,950,1
+Toyota,Innova Crysta GX,Diesel,2021,Windshield Wiper Motor & Linkage,4370,750,1600,1000,0.75
+Tata,Altroz XZ,Diesel,2025,Rear Bumper Cover (Unpainted),3970,890,1610,710,1.25
+Tata,Tiago XT,Petrol,2022,CV Axle Drive Shaft Assembly,5010,1070,1610,610,1.75
+Tata,Punch.ev Empowered+,Electric,2025,Front Fender Panel,3880,1580,1630,790,2
+Mahindra,XUV700 AX7,Diesel,2026,Windshield Wiper Motor & Linkage,4270,970,1630,970,1
+Tata,Punch.ev Empowered+,Electric,2026,AC Condenser Coil,6030,1450,1640,830,1.75
+Hyundai,Verna SX Turbo,Petrol,2024,Front Laminated Windshield Glass,7690,1820,1650,810,2.25
+Honda,Amaze VX,Petrol,2025,Front Bumper Cover (Unpainted),4620,1160,1680,770,1.5
+Hyundai,Creta SX(O),Diesel,2020,Radiator Cooling Fan Motor,4370,810,1680,810,1
+Hyundai,Creta SX(O),Diesel,2024,Front Laminated Windshield Glass,7420,1700,1710,850,2
+BYD,Atto 3 Superior,Electric,2024,Front Brake Disc Rotor (Pair),7250,1700,1720,1130,1.5
+Toyota,Innova Hycross ZX(O),Hybrid,2025,Windshield Wiper Motor & Linkage,4740,800,1760,1060,0.75
+Tata,Nexon Creative+,Petrol,2024,Brake Caliper Assembly,5470,890,1770,710,1.25
+BYD,Atto 3 Superior,Electric,2023,Lower Suspension Control Arm,5580,1060,1770,1060,1
+Hyundai,Creta SX,Petrol,2023,Rear Bumper Cover (Unpainted),4900,1090,1780,870,1.25
+Kia,Sonet HTX,Diesel,2024,Brake Caliper Assembly,5440,900,1780,720,1.25
+Tata,Tiago.ev XZ+ Tech Lux,Electric,2024,CV Axle Drive Shaft Assembly,5830,1120,1790,750,1.5
+Kia,Carens Prestige+,Diesel,2025,Rear Bumper Cover (Unpainted),4800,1100,1790,880,1.25
+Hyundai,Creta SX(O),Diesel,2022,Brake Caliper Assembly,6230,1100,1790,880,1.25
+Tata,Punch.ev Empowered+,Electric,2024,Front Fender Panel,3930,1600,1790,800,2
+Hyundai,Creta SX(O),Diesel,2021,Engine Radiator Assembly,6450,1490,1810,850,1.75
+Hyundai,Verna SX Turbo,Petrol,2024,Front Bumper Cover (Unpainted),4980,1440,1820,820,1.75
+Toyota,Urban Cruiser Hyryder V,Hybrid,2022,Radiator Cooling Fan Motor,5000,950,1850,950,1
+Kia,Sonet HTX,Diesel,2021,EGR Valve Assembly,7720,1360,1860,780,1.75
+Tata,Harrier Fearless+,Diesel,2023,Brake Caliper Assembly,6960,1180,1890,940,1.25
+BYD,Atto 3 Superior,Electric,2023,Windshield Wiper Motor & Linkage,5310,840,1890,1120,0.75
+Kia,Sonet HTX,Diesel,2025,Rear Bumper Cover (Unpainted),4700,910,1900,730,1.25
+Hyundai,Venue SX,Diesel,2026,EGR Valve Assembly,8280,1560,1910,780,2
+Tata,Nexon Fearless,Diesel,2026,Brake Caliper Assembly,5820,730,1910,730,1
+Volkswagen,Virtus GT Plus,Petrol,2022,Radiator Cooling Fan Motor,4980,990,1920,990,1
+Tata,Altroz XZ,Diesel,2025,Starter Motor Assembly,5770,860,1920,690,1.25
+Honda,City ZX,Petrol,2025,Rear Bumper Cover (Unpainted),4590,1260,1930,840,1.5
+Toyota,Innova Crysta GX,Diesel,2021,Front Laminated Windshield Glass,8910,2300,1930,1020,2.25
+Tata,Tiago iCNG XZ,CNG,2026,CNG Pressure Reducer / Regulator,5800,880,1940,590,1.5
+Hyundai,Grand i10 Nios Magna,CNG,2022,Starter Motor Assembly,5080,840,1960,670,1.25
+Maruti Suzuki,WagonR LXi,CNG,2023,LED Projector Headlamp Assembly,7190,540,1970,540,1
+MG,ZS EV Exclusive,Electric,2023,Radiator Cooling Fan Motor,5520,1020,1970,1020,1
+Toyota,Urban Cruiser Hyryder V,Hybrid,2024,Brake Caliper Assembly,7030,940,1970,940,1
+Mahindra,XUV700 AX7,Diesel,2022,Brake Caliper Assembly,7310,1000,1980,1000,1
+Hyundai,Grand i10 Nios Sportz,Petrol,2024,Starter Motor Assembly,5510,810,1980,650,1.25
+Tata,Nexon Fearless,Diesel,2023,EGR Valve Assembly,8100,1460,1990,730,2
+Honda,City ZX,Petrol,2025,Engine Radiator Assembly,6760,1490,2000,850,1.75
+Volkswagen,Virtus GT Plus,Petrol,2026,AC Condenser Coil,7720,1770,2010,1010,1.75
+Hyundai,Verna SX Turbo,Petrol,2023,ORVM Side Mirror (Auto-Fold w/ Indicator),5600,620,2020,820,0.75
+BYD,Atto 3 Superior,Electric,2025,Lower Suspension Control Arm,6100,1380,2020,1100,1.25
+Mahindra,Scorpio-N Z8L,Diesel,2023,AC Condenser Coil,7450,1410,2040,940,1.5
+Kia,Seltos HTX,Diesel,2023,Rear Bumper Cover (Unpainted),5050,1050,2040,840,1.25
+Kia,Sonet HTX,Diesel,2026,Front Bumper Cover (Unpainted),4660,1110,2050,740,1.5
+Maruti Suzuki,Fronx Delta+,CNG,2023,CNG Pressure Reducer / Regulator,5780,990,2060,660,1.5
+Tata,Nexon Fearless,Diesel,2026,EGR Valve Assembly,7700,1360,2070,780,1.75
+Mahindra,XUV400 EL Pro,Electric,2023,Front Bumper Cover (Unpainted),5550,1260,2090,840,1.5
+Tata,Curvv.ev Empowered+,Electric,2024,ORVM Side Mirror (Auto-Fold w/ Indicator),6290,680,2100,900,0.75
+Honda,City ZX,Petrol,2026,ORVM Side Mirror (Auto-Fold w/ Indicator),5620,650,2150,870,0.75
+Honda,City e:HEV,Hybrid,2023,ORVM Side Mirror (Auto-Fold w/ Indicator),5720,740,2150,980,0.75
+Volkswagen,Virtus GT Plus,Petrol,2022,ORVM Side Mirror (Auto-Fold w/ Indicator),6440,490,2170,980,0.5
+Mahindra,XUV700 AX7,Diesel,2026,AC Condenser Coil,8190,1940,2170,970,2
+Tata,Curvv.ev Empowered+,Electric,2026,ORVM Side Mirror (Auto-Fold w/ Indicator),6950,660,2200,880,0.75
+Toyota,Urban Cruiser Hyryder V,Hybrid,2026,ORVM Side Mirror (Auto-Fold w/ Indicator),6250,690,2250,920,0.75
+Tata,Punch.ev Empowered+,Electric,2024,EV Charge Port Flap & Actuator,6460,1150,2260,920,1.25
+MG,ZS EV Exclusive,Electric,2025,Brake Caliper Assembly,8120,1220,2270,980,1.25
+Volkswagen,Virtus GT Plus,Petrol,2022,CV Axle Drive Shaft Assembly,7640,1530,2280,1020,1.5
+Maruti Suzuki,Fronx Delta+,CNG,2024,Starter Motor Assembly,6560,1060,2390,710,1.5
+Toyota,Fortuner Legender,Diesel,2022,Brake Master Cylinder,6790,1720,2400,1150,1.5
+Hyundai,Grand i10 Nios Sportz,Petrol,2022,Fuel Injector (Single),7720,960,2430,770,1.25
+Toyota,Urban Cruiser Hyryder V,Hybrid,2026,Front Fender Panel,5110,1860,2440,930,2
+Tata,Curvv.ev Empowered+,Electric,2024,EV Charge Port Flap & Actuator,7590,1380,2460,1100,1.25
+Maruti Suzuki,Grand Vitara Alpha+,Hybrid,2022,Front Fender Panel,5010,1700,2460,850,2
+Tata,Nexon.ev Empowered+,Electric,2024,EV Charge Port Flap & Actuator,7830,1220,2470,980,1.25
+Kia,Carens Prestige+,Diesel,2026,Front Bumper Cover (Unpainted),5780,1340,2490,890,1.5
+Tata,Tiago.ev XZ+ Tech Lux,Electric,2023,LED Projector Headlamp Assembly,9490,770,2490,770,1
+Tata,Harrier Fearless+,Diesel,2024,ORVM Side Mirror (Auto-Fold w/ Indicator),7250,720,2550,960,0.75
+Toyota,Urban Cruiser Hyryder V,Hybrid,2023,CV Axle Drive Shaft Assembly,7830,1360,2550,910,1.5
+Tata,Curvv.ev Empowered+,Electric,2025,Front Bumper Cover (Unpainted),6570,1360,2550,910,1.5
+Tata,Curvv.ev Empowered+,Electric,2026,Front Bumper Cover (Unpainted),6860,1360,2570,910,1.5
+Hyundai,Venue SX,Diesel,2021,Starter Motor Assembly,6650,900,2580,720,1.25
+MG,ZS EV Exclusive,Electric,2024,ORVM Side Mirror (Auto-Fold w/ Indicator),7350,490,2600,980,0.5
+Tata,Altroz XZ,Diesel,2024,Fuel Injector (Single),9410,950,2630,760,1.25
+MG,ZS EV Exclusive,Electric,2022,ORVM Side Mirror (Auto-Fold w/ Indicator),7190,750,2660,1000,0.75
+BYD,Atto 3 Superior,Electric,2023,Front Fender Panel,6200,1870,2730,1070,1.75
+Tata,Nexon Fearless,Diesel,2024,Starter Motor Assembly,7350,1160,2740,770,1.5
+Hyundai,i20 Asta,Petrol,2022,Alternator Assembly,8760,1000,2740,670,1.5
+Toyota,Innova Crysta GX,Diesel,2020,CV Axle Drive Shaft Assembly,8910,1420,2770,950,1.5
+Mahindra,XUV 3XO AX5,Petrol,2024,Starter Motor Assembly,7590,960,2780,770,1.25
+Kia,Sonet HTX,Diesel,2022,LED Projector Headlamp Assembly,10430,730,2860,730,1
+Tata,Nexon Creative+,Petrol,2025,LED Projector Headlamp Assembly,11490,700,2860,700,1
+Honda,Amaze VX,Petrol,2026,LED Projector Headlamp Assembly,11160,730,2880,730,1
+Maruti Suzuki,Baleno Zeta,Petrol,2024,Alternator Assembly,9160,1020,2970,680,1.5
+Toyota,Innova Hycross ZX(O),Hybrid,2026,CV Axle Drive Shaft Assembly,10980,1890,3020,1080,1.75
+Volkswagen,Virtus GT Plus,Petrol,2026,Starter Motor Assembly,8560,1200,3050,960,1.25
+MG,ZS EV Exclusive,Electric,2025,CV Axle Drive Shaft Assembly,9290,1700,3060,970,1.75
+Maruti Suzuki,Celerio VXi,CNG,2026,Catalytic Converter Assembly,15950,1050,3070,600,1.75
+MG,ZS EV Exclusive,Electric,2026,CV Axle Drive Shaft Assembly,10010,1780,3090,1020,1.75
+BYD,Atto 3 Superior,Electric,2026,Front Bumper Cover (Unpainted),7860,1700,3120,1130,1.5
+Kia,Sonet HTX,Diesel,2025,LED Projector Headlamp Assembly,11810,720,3200,720,1
+Honda,City ZX,Petrol,2021,Fuel Injector (Single),10990,1280,3220,1020,1.25
+Honda,Amaze VX,Petrol,2023,Alternator Assembly,9690,1120,3250,750,1.5
+Skoda,Slavia Style,Petrol,2022,Starter Motor Assembly,9100,1200,3370,960,1.25
+BYD,Atto 3 Superior,Electric,2023,CV Axle Drive Shaft Assembly,11170,1660,3400,1110,1.5
+Toyota,Fortuner Legender,Diesel,2022,EGR Valve Assembly,13900,2100,3500,1200,1.75
+Tata,Tiago XT,Petrol,2024,Engine Hood / Bonnet Panel,7700,1500,3550,600,2.5
+Toyota,Innova Crysta GX,Diesel,2019,Starter Motor Assembly,9560,1200,3650,960,1.25
+BYD,Atto 3 Superior,Electric,2023,EV Charge Port Flap & Actuator,9670,1540,3660,1230,1.25
+Mercedes-Benz,C-Class C220d,Diesel,2024,AC Condenser Coil,16390,3260,3690,1860,1.75
+Kia,Seltos HTX,Diesel,2026,Automatic Gearbox Solenoid Valve,9860,2670,3730,970,2.75
+Mahindra,Scorpio-N Z8L,Diesel,2023,LED Projector Headlamp Assembly,14840,880,3760,880,1
+Tata,Harrier Fearless+,Diesel,2021,Fuel Injector (Single),12950,1340,3820,1070,1.25
+Hyundai,Creta SX(O),Diesel,2026,Fuel Injector (Single),13400,1250,3860,1000,1.25
+BMW,3 Series 330Li M Sport,Petrol,2021,Front Laminated Windshield Glass,18310,3660,3940,1830,2
+Hyundai,Venue SX,Diesel,2021,Catalytic Converter Assembly,20870,1560,3970,780,2
+Maruti Suzuki,Dzire ZXi+,Petrol,2022,Electric Power Steering (EPS) Rack,13290,2190,3980,730,3
+Volkswagen,Virtus GT Plus,Petrol,2026,LED Projector Headlamp Assembly,15460,960,4010,960,1
+Audi,Q3 Technology,Petrol,2026,Brake Caliper Assembly,14960,2250,4070,1800,1.25
+Kia,Carens Prestige+,Diesel,2026,Alternator Assembly,12960,1520,4090,870,1.75
+Kia,Sonet HTX,Diesel,2025,Dual-Mass Flywheel,20940,2740,4190,730,3.75
+Toyota,Innova Crysta GX,Diesel,2019,LED Projector Headlamp Assembly,16320,1160,4280,930,1.25
+Tata,Altroz XZ,Diesel,2024,Catalytic Converter Assembly,21710,1220,4280,700,1.75
+Tata,Nexon.ev Empowered+,Electric,2023,Engine Hood / Bonnet Panel,11250,2150,4290,860,2.5
+Tata,Nexon Fearless,Diesel,2024,Engine Hood / Bonnet Panel,9960,1820,4310,730,2.5
+Tata,Nexon Creative+,Petrol,2021,AC Compressor Assembly,14160,1640,4370,730,2.25
+Hyundai,Venue SX,Diesel,2022,Engine Hood / Bonnet Panel,9640,1950,4400,780,2.5
+Honda,City e:HEV,Hybrid,2022,Alternator Assembly,13130,1610,4400,920,1.75
+Mahindra,Scorpio-N Z8L,Diesel,2023,Alternator Assembly,13870,1320,4440,880,1.5
+Hyundai,Grand i10 Nios Magna,CNG,2024,Electric Power Steering (EPS) Rack,15040,2250,4550,750,3
+Maruti Suzuki,Brezza ZXi,Petrol,2026,Dual-Mass Flywheel,19060,2800,4560,700,4
+BYD,Atto 3 Superior,Electric,2024,LED Projector Headlamp Assembly,19490,1140,4750,1140,1
+Toyota,Innova Crysta GX,Diesel,2019,Automatic Gearbox Solenoid Valve,11800,3080,4900,1120,2.75
+Maruti Suzuki,Fronx Delta+,CNG,2025,AC Compressor Assembly,15850,1700,4960,680,2.5
+Toyota,Urban Cruiser Hyryder V,Hybrid,2024,Engine Hood / Bonnet Panel,11680,2050,5010,910,2.25
+Tata,Nexon Fearless,Diesel,2026,Dual-Mass Flywheel,22680,3420,5020,760,4.5
+BMW,3 Series 330Li M Sport,Petrol,2024,ORVM Side Mirror (Auto-Fold w/ Indicator),13580,1380,5070,1840,0.75
+Mercedes-Benz,C-Class C220d,Diesel,2024,Engine Radiator Assembly,17400,3980,5170,1990,2
+BMW,3 Series 330Li M Sport,Petrol,2026,Front Fender Panel,11180,3440,5220,1720,2
+Mahindra,Scorpio-N Z8L,Diesel,2025,Automatic Gearbox Solenoid Valve,12250,2340,5380,1040,2.25
+Honda,City e:HEV,Hybrid,2024,Catalytic Converter Assembly,28810,1900,5580,950,2
+Tata,Punch.ev Empowered+,Electric,2025,Electric Power Steering (EPS) Rack,19180,2910,5680,970,3
+Honda,City ZX,Petrol,2022,Electric Power Steering (EPS) Rack,17400,2880,5770,960,3
+Mahindra,XUV700 AX7,Diesel,2026,Alternator Assembly,16930,1440,5970,960,1.5
+Hyundai,Creta SX,Petrol,2024,AC Compressor Assembly,18250,2050,6050,820,2.5
+Mahindra,Scorpio-N Z8L,Diesel,2026,Engine Hood / Bonnet Panel,13690,1960,6080,870,2.25
+Mahindra,XUV700 AX7,Diesel,2025,Catalytic Converter Assembly,32880,1590,6090,910,1.75
+Skoda,Slavia Style,Petrol,2025,Catalytic Converter Assembly,29240,1440,6220,960,1.5
+Tata,Harrier Fearless+,Diesel,2026,Engine Hood / Bonnet Panel,14250,2020,6560,900,2.25
+Hyundai,Creta SX,Petrol,2024,Electric Power Steering (EPS) Rack,20740,2700,6580,980,2.75
+Toyota,Innova Crysta GX,Diesel,2025,Dual-Mass Flywheel,33220,3920,6650,980,4
+Skoda,Slavia Style,Petrol,2023,AC Compressor Assembly,21100,2300,6750,1020,2.25
+Maruti Suzuki,Grand Vitara Alpha+,Hybrid,2024,AC Compressor Assembly,19570,2480,6840,900,2.75
+Honda,City e:HEV,Hybrid,2023,AC Compressor Assembly,21160,2700,6860,980,2.75
+Hyundai,Creta SX,Petrol,2025,AC Compressor Assembly,19790,2450,6960,890,2.75
+Hyundai,Creta SX(O),Diesel,2023,Electric Power Steering (EPS) Rack,21740,3360,7070,960,3.5
+Mahindra,Scorpio-N Z8L,Diesel,2026,AC Compressor Assembly,24250,2250,7160,900,2.5
+Toyota,Urban Cruiser Hyryder V,Hybrid,2026,Electric Power Steering (EPS) Rack,23380,3090,7190,1030,3
+Toyota,Fortuner Legender,Diesel,2024,Alternator Assembly,22170,2010,7260,1150,1.75
+BYD,Atto 3 Superior,Electric,2024,Engine Hood / Bonnet Panel,17550,2300,7610,1150,2
+Audi,Q3 Technology,Petrol,2022,LED Projector Headlamp Assembly,31480,1670,8030,1670,1
+Toyota,Innova Hycross ZX(O),Hybrid,2023,Catalytic Converter Assembly,38830,1540,8140,1030,1.5
+Toyota,Fortuner Legender,Diesel,2023,Dual-Mass Flywheel,38900,4280,8170,1140,3.75
+Tata,Tiago XT,Petrol,2023,Turbocharger Assembly,20430,2890,8380,680,4.25
+Tata,Tiago.ev XZ+ Tech Lux,Electric,2025,EV DC-DC Converter Unit,29430,2280,10080,830,2.75
+BMW,3 Series 330Li M Sport,Petrol,2026,Alternator Assembly,30270,3010,10750,1720,1.75
+Mercedes-Benz,C-Class C220d,Diesel,2024,Engine Hood / Bonnet Panel,28730,5100,11060,2040,2.5
+Tata,Punch.ev Empowered+,Electric,2026,EV DC-DC Converter Unit,36750,2400,11250,960,2.5
+Tata,Nexon.ev Empowered+,Electric,2025,Regenerative Brake Actuator,29850,2280,11310,910,2.5
+Tata,Nexon.ev Empowered+,Electric,2024,Regenerative Brake Actuator,31270,2360,11520,860,2.75
+BMW,3 Series 330Li M Sport,Petrol,2024,Engine Hood / Bonnet Panel,28020,4230,11650,1880,2.25
+Hyundai,Venue SX,Diesel,2025,Turbocharger Assembly,31200,3190,12270,850,3.75
+Audi,Q3 Technology,Petrol,2026,Engine Hood / Bonnet Panel,26960,4420,12280,1770,2.5
+Hyundai,Verna SX Turbo,Petrol,2023,Turbocharger Assembly,33290,4000,12320,940,4.25
+Kia,Sonet HTX,Diesel,2025,Turbocharger Assembly,31510,3280,12670,820,4
+Maruti Suzuki,Grand Vitara Alpha+,Hybrid,2024,EV DC-DC Converter Unit,40540,2830,13000,1030,2.75
+Kia,Seltos HTX,Diesel,2025,Turbocharger Assembly,38540,4040,13360,1010,4
+BYD,Atto 3 Superior,Electric,2023,Regenerative Brake Actuator,37930,2720,13840,1090,2.5
+BMW,3 Series 330Li M Sport,Petrol,2026,Catalytic Converter Assembly,68410,3780,14710,1890,2
+Tata,Curvv.ev Empowered+,Electric,2025,EV On-Board Charger (OBC) Module,55500,3300,15970,1100,3
+MG,ZS EV Exclusive,Electric,2024,EV On-Board Charger (OBC) Module,61420,3330,18070,1110,3
+BYD,Atto 3 Superior,Electric,2026,EV On-Board Charger (OBC) Module,73400,3600,22440,1310,2.75

@@ -1,0 +1,6 @@
+pandas
+sqlalchemy
+pydantic
+python-dotenv
+pytest
+langchain-groq
